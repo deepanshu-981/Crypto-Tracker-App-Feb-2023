@@ -1,10 +1,15 @@
 # Getting Started with Create React App
 
 In the project directory, you can run:
+
 npm config set legacy-peer-deps true
+
 npm i
+
 npm i @material-ui/core @material-ui/lab react-router-dom
+
 npm i axios react-html-parser react-alice-carousel react-chartjs-2
+
 ### `npm start`
 
 Runs the app in the development mode.\
